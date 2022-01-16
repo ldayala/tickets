@@ -1,0 +1,9 @@
+ul{
+    list-style-type: none;
+    font-size: 24px;
+    margin: auto;
+    padding: 16px 0;
+}
+li{
+    text-align: center;
+}
